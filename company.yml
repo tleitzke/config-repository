@@ -1,2 +1,5 @@
-message:
-  name: daniel
+---
+spring:
+  profiles: cloud
+
+message: Steve
